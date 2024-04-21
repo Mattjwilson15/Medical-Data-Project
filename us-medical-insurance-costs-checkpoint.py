@@ -50,7 +50,3 @@ print(f'The Avg difference in cost between a female smoker and female non-smoker
 
 
 print(f'This means a male smoker will pay {dif_in_gen_smoker} more than a female smoker while a male non-smoker will pay {dif_in_gen_nonsmoker} less than a female non-smoker')
-
-
-
-
